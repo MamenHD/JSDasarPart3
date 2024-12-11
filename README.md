@@ -1,2 +1,2 @@
 # JSDasarPart3
-Ini Kumpulan dasar dasar JavaScript yang saya pelajari untuk saat ini.
+Ini lanjutan dari kumpulan dasar dasar Java Script yang saya pelajari.
